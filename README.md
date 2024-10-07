@@ -39,15 +39,12 @@ These models were trained using Python and NASA’s datasets, and they help farm
 
 - **Machine Learning Notebook**: [Google Colab Notebook](https://colab.research.google.com/drive/1JeXzfN-_1L9kWC0cd7YYXtOSMOjalmhz?usp=sharing)
 
-## 🤖 Artificial Intelligence (AI)
-AI is utilized in the following aspects of the app:
-- Predicting soil conditions based on NASA data.
-- Providing crop recommendations and risk assessments.
-- Sending notifications about potential agricultural risks (e.g., flooding or drought).
 
 ## 🔗 Links
 - **NASA Power Data**: [Link](https://power.larc.nasa.gov/data-access-viewer/)
 - **Machine Learning Model**: [Google Colab](https://colab.research.google.com/drive/1JeXzfN-_1L9kWC0cd7YYXtOSMOjalmhz?usp=sharing)
+- **Back-End**: [Link](https://github.com/TheSolom/Nasa-Farmers)
+- **UI/UX**: [Figma](https://www.figma.com/design/a2eDaCuKkSxjDQrGJaaqiz/Nasa's-Hackthon?node-id=0-1&t=erEH0dlu8J0npPVr-1)
 
 ## 👥 Team
 - **Mohammed Ashraf** - Team Lead, Flutter Developer
