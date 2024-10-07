@@ -48,7 +48,9 @@ These models were trained using Python and NASA’s datasets, and they help farm
 
 ## 👥 Team
 - **Mohammed Ashraf** - Team Lead, Flutter Developer
-- **Menna** - UI/UX Designer
-- **Islam** - Back-end Developer
+- **Menna Nasef** - UI/UX Designer
+- **Mohammed Ramadan** - AI
+- **Mohammed Hamdy** - AI
+- **Islam Ashraf** - Back-end Developer
 
 ## Note: App Not Complete yest cause Hackathon was just 24 hours
