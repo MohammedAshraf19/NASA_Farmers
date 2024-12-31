@@ -20,6 +20,11 @@ Our mission is to empower farmers by providing them with critical data and insig
 - Predict and mitigate agricultural risks.
 - Share and learn from the experiences of fellow farmers.
 
+## Design
+![splash](https://github.com/user-attachments/assets/121b4294-f264-4e65-ab24-f536ce7bb14f)
+![location](https://github.com/user-attachments/assets/6d0b8d34-b761-4cb7-af29-0e41bd8aa802)
+![home](https://github.com/user-attachments/assets/59dc1adf-a433-4794-a4c3-bd96a9908f99)
+
 ## 🛠️ Tech Stack
 - **Flutter** for the mobile app development.
 - **NodeJS** for the back-end development.
