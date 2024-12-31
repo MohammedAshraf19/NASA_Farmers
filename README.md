@@ -1,3 +1,4 @@
+![into](https://github.com/user-attachments/assets/9cee8ab2-6e4d-4900-9b3c-ae2e9fae97e1)
 # 🌍 NASA Farmers - Leveraging Earth Observation Data for Informed Agricultural Decision-Making
 
 ## 🚀 Overview
